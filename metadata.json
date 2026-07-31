@@ -1,0 +1,6 @@
+{
+  "name": "Bio-Optic & Vital Telemetry Lab",
+  "description": "Real-time ocular pupil tracking, continuous glucose telemetry, acoustic turbulence waveform analysis, and AI neural diagnostics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
